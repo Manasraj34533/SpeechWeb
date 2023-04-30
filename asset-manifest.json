@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SpeechWeb/static/css/main.52e3efa0.css",
+    "main.js": "/SpeechWeb/static/js/main.3746fd82.js",
+    "index.html": "/SpeechWeb/index.html",
+    "main.52e3efa0.css.map": "/SpeechWeb/static/css/main.52e3efa0.css.map",
+    "main.3746fd82.js.map": "/SpeechWeb/static/js/main.3746fd82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52e3efa0.css",
+    "static/js/main.3746fd82.js"
+  ]
+}
